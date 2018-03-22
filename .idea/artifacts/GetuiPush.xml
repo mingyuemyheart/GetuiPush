@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GetuiPush">
+    <output-path>$PROJECT_DIR$/out/artifacts/GetuiPush</output-path>
+    <root id="archive" name="GetuiPush.jar" />
+  </artifact>
+</component>

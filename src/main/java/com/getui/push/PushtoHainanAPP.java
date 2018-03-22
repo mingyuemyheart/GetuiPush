@@ -22,7 +22,10 @@ public class PushtoHainanAPP {
     private static String host = "http://sdk.open.api.igexin.com/apiex.htm";
 
     public static void main(String[] args) {
+        push();
+    }
 
+    public static void push() {
         IGtPush push = new IGtPush(host, appKey, masterSecret);
 
         final AppMessage message = new AppMessage();
