@@ -1,3 +1,5 @@
+package com.getui.push;
+
 import com.gexin.fastjson.JSONObject;
 import com.gexin.rp.sdk.base.IPushResult;
 import com.gexin.rp.sdk.base.impl.AppMessage;
